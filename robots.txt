@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rgslabs.github.io/Emmanuel-Dios-con-Nosotros-Website-/sitemap.xml
