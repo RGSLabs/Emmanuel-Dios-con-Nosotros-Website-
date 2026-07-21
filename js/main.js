@@ -54,8 +54,8 @@ function handleLogoError(img) {
       "beliefs.item5": "La comunidad importa más que la popularidad.",
       "beliefs.item6": "Todos merecen sentirse bienvenidos aquí.",
 
-      "verse.text": "He aquí, una virgen concebirá y dará a luz un hijo, y llamarás su nombre Emmanuel, que traducido es: Dios con nosotros.",
-      "verse.ref": "Mateo 1:23 · RVR1960",
+      "verse.text": "Emmanuel significa que Dios no nos da respuestas desde lejos; nos da su presencia en medio del dolor. No promete un camino sin tormentas, promete no soltar nuestra mano durante la tempestad.",
+      "verse.ref": "— Basado en Isaías 41:10, 13 y Mateo 1:23",
 
       "prayer.eyebrow": "Un espacio para orar",
       "prayer.title": "Puedes traer lo que llevas contigo.",
